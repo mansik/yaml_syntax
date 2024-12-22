@@ -4,7 +4,8 @@ yaml syntax
 yaml: 기존에 주로 사용되던 포맷인 JSON의 불편함을 해소하기 위해 만들어진 superset이다.  
 .yaml과 .yml 둘 다 사용 가능한 확장자이다.
 
-References: [yaml](https://namu.wiki/w/YAML#toc)
+website: [yaml.org](https://yaml.org/)
+References: [namu.wiki/yaml](https://namu.wiki/w/YAML#toc)
 
 
 ```yaml
